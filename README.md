@@ -38,3 +38,93 @@ mostrarEnConsola(resultado)
 10&spades; Calcule el área de un triángulo a partir de su base y su altura.
 
 J&spades; Calcule la hipotenusa de un triángulo rectángulo a partir de sus dos catetos.
+
+
+## Lorem Ipsum
+
+**Lo que se pone a prueba:** Lorem Ipsum.
+
+Q&spades; Lorem ipsum dolor sit amet.
+
+K&spades; Lorem ipsum dolor sit amet.
+
+A&spades; Lorem ipsum dolor sit amet.
+
+2&hearts; Lorem ipsum dolor sit amet.
+
+3&hearts; Lorem ipsum dolor sit amet.
+
+4&hearts; Lorem ipsum dolor sit amet.
+
+5&hearts; Lorem ipsum dolor sit amet.
+
+6&hearts; Lorem ipsum dolor sit amet.
+
+7&hearts; Lorem ipsum dolor sit amet.
+
+8&hearts; Lorem ipsum dolor sit amet.
+
+9&hearts; Lorem ipsum dolor sit amet.
+
+10&hearts; Lorem ipsum dolor sit amet.
+
+J&hearts; Lorem ipsum dolor sit amet.
+
+Q&hearts; Lorem ipsum dolor sit amet.
+
+K&hearts; Lorem ipsum dolor sit amet.
+
+A&hearts; Lorem ipsum dolor sit amet.
+
+2&clubs; Lorem ipsum dolor sit amet.
+
+3&clubs; Lorem ipsum dolor sit amet.
+
+4&clubs; Lorem ipsum dolor sit amet.
+
+5&clubs; Lorem ipsum dolor sit amet.
+
+6&clubs; Lorem ipsum dolor sit amet.
+
+7&clubs; Lorem ipsum dolor sit amet.
+
+8&clubs; Lorem ipsum dolor sit amet.
+
+9&clubs; Lorem ipsum dolor sit amet.
+
+10&clubs; Lorem ipsum dolor sit amet.
+
+J&clubs; Lorem ipsum dolor sit amet.
+
+Q&clubs; Lorem ipsum dolor sit amet.
+
+K&clubs; Lorem ipsum dolor sit amet.
+
+A&clubs; Lorem ipsum dolor sit amet.
+
+2&diams; Lorem ipsum dolor sit amet.
+
+3&diams; Lorem ipsum dolor sit amet.
+
+4&diams; Lorem ipsum dolor sit amet.
+
+5&diams; Lorem ipsum dolor sit amet.
+
+6&diams; Lorem ipsum dolor sit amet.
+
+7&diams; Lorem ipsum dolor sit amet.
+
+8&diams; Lorem ipsum dolor sit amet.
+
+9&diams; Lorem ipsum dolor sit amet.
+
+10&diams; Lorem ipsum dolor sit amet.
+
+J&diams; Lorem ipsum dolor sit amet.
+
+Q&diams; Lorem ipsum dolor sit amet.
+
+K&diams; Lorem ipsum dolor sit amet.
+
+A&diams; Lorem ipsum dolor sit amet.
+
